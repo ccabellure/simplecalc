@@ -1,0 +1,13 @@
+def ambil_angka():
+    """Meminta input dari pengguna untuk dua angka pertama yang akan dihitung."""
+    return [float(input("Angka pertama: ")), float(input("Angka kedua: "))]
+
+def tambah_angka_tambahan(daftar_angka):
+    """Menanyakan apakah pengguna ingin menambah satu angka lagi"""
+    pilihan = int(input("Apakah mau menambah satu angka lagi? (1=Ya, 2=Tidak): "))
+    if pilihan == 1:
+        angka_baru = float(input("Masukkan angka tambahan: "))
+        daftar_angka.append(angka_baru)
+    elif pilihan != 2:
+        print("Pilihan tidak valid. Tidak ada angka yang ditambahkan.")
+    return daftar_angka
