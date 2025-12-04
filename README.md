@@ -74,3 +74,4 @@ Menjalankan proses hitung berdasarkan operator:
 Menampilkan hasil akhir ke layar.
 
 Daftar Kontributor:
+[Klik untuk melihat tabel kontributor](kontributor.pdf)
