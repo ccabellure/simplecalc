@@ -19,4 +19,35 @@ Fitur Utama:
 	•	pilih_operator()
 	•	hitung()
 	•	tampilkan_hasil()
-  
+Panduan Instalasi:
+Langkah-langkah untuk menjalankan program pada komputer Anda:
+	1.	Clone repository menggunakan Git:
+git clone <link-repository-github-anda>
+	2.	Masuk ke folder project:
+cd nama-folder-project
+	3.	Pastikan Python sudah terinstall (versi 3.x):
+python --version
+Tidak ada library eksternal yang perlu diinstall karena program hanya menggunakan fungsi bawaan Python.
+Panduan Menjalankan Program:
+	1.	Jalankan program melalui terminal/command prompt:
+python nama_file.py
+	2.	Ikuti instruksi di layar:
+	•	Masukkan angka pertama
+	•	Masukkan angka kedua
+	•	Pilih apakah ingin menambah angka ketiga
+	•	Pilih operator perhitungan (1–4)
+	3.	Program akan menampilkan HASIL AKHIR sesuai operasi yang dipilih.
+Contoh tampilan:
+Angka pertama: 10
+Angka kedua: 5
+Apakah mau menambah satu angka lagi? (1=Ya, 2=Tidak): 1
+Masukkan angka tambahan: 2
+Pilih operator:
+1. Penjumlahan (+)
+2. Pengurangan (-)
+3. Perkalian (*)
+4. Pembagian (/)
+Pilihan: 1
+=== HASIL AKHIR ===
+Hasil: 17
+
