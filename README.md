@@ -56,7 +56,7 @@ Pilihan: 1
 Hasil: 17
 
 Dokumentasi Teknis:
-[Klik untuk membuka flowchart](flowchart kalkulator simple drawio.pdf)
+[Klik untuk membuka flowchart](flowchart.pdf)
 Penjelasan Modul Utama
 	•	fungsi ambil_angka()
 Mengambil dua angka pertama dari pengguna.
