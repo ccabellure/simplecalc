@@ -56,7 +56,7 @@ Pilihan: 1
 Hasil: 17
 
 Dokumentasi Teknis:
-[Klik untuk membuka flowchart](docs/flowchart.pdf)
+[Klik untuk membuka flowchart]([docs/flowchart.pdf](https://github.com/ccabellure/simplecalc/blob/main/FLOWCHART%20KALKULATOR%20SIMPEL%20drawio.pdf))
 Penjelasan Modul Utama
 	•	fungsi ambil_angka()
 Mengambil dua angka pertama dari pengguna.
