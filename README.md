@@ -56,7 +56,7 @@ Pilihan: 1
 Hasil: 17
 
 Dokumentasi Teknis:
-
+[Klik untuk membuka flowchart](docs/flowchart.pdf)
 Penjelasan Modul Utama
 	•	fungsi ambil_angka()
 Mengambil dua angka pertama dari pengguna.
